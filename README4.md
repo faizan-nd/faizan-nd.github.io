@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html> <head> 
+<html> 
+  <head> 
   <h1> Competenze Linguistiche </h1>
     <p> <li>LINGUA MADRE: Urdu e Italiano </li>
     <li> ALTRE LINGUE: </li>
@@ -21,5 +22,6 @@
       </ul>
     </ol>
   </p>
+    <img src="https://github.com/faizan-nd/faizan-nd.github.io/blob/main/schema_CEFR.png">
 </head>
 </html>
