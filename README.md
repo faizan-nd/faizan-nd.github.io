@@ -3,7 +3,7 @@
 <html>
   <head>
     <h1> Faizan Nadeem </h1>
-    <img src="local-fuss/scaricati/Screenshot_20230517-215701_Video Player.jpg">
+    <img src="local-fuss/Scaricati/Screenshot_20230517-215701_Video Player.jpg">
     <h2> Sono Faizan e benvenuto nel mio sito personale </h2> 
     <h2> Contatti </h2>
     <p> <ul>
