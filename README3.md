@@ -7,5 +7,6 @@
     <p> Vivo a Bolzano sono un studente della quarta superiore dell'indirizzo informatico nella scuola Cesare Battisti. 
       I miei interessi sono praticare lo sport in particolare il pugilato, fare conoscenza, visitare nuovi luoghi e imparare 
       nuove cose. </p> 
+    <img src="https://github.com/faizan-nd/faizan-nd.github.io/blob/main/istruzione-e-formazione.jpg"  height="400" width="600">
    </head>
 </html>
