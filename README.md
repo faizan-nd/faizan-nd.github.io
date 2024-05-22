@@ -3,8 +3,8 @@
 <html>
   <head>
     <h1> Faizan Nadeem </h1>
-    <img src="local-fuss/Scaricati/Screenshot_20230517-215701_Video Player.jpg"  height="250px" width="250">
-    <h2> Sono Faizan e benvenuto nel mio sito personale </h2> 
+    <img src="/home/local-fuss/foto/Screenshot_20230517-215701_Video Player.jpg"  height="250px" width="250">
+    <h2> Ciao sono Faizan e benvenuto nel mio sito personale </h2> 
     <h3> Contatti </h3>
     <p> <ul>
       <li> E-mail: nadeemfaizan356@gmail.com </li> 
@@ -39,12 +39,12 @@
   </p>
     <h3> Esperienza Lavorativa </h3>
     <p> 
-    <ol> <li> Dal 12/09/2023 al 12/10/2023 – dal 02/01/2024 al 20/01/2024 Bolzano, Italia </li>
+    <ol> <li> Dal 12/09/2023 al 12/10/2023 – dal 02/01/2024 al 20/01/2024 | Bolzano, Italia </li>
      Intervistatore da apollis 
     <ul>
       <li> Interviste in chiamata sui sondaggi riguardo alle indagini di mercato </li> 
     </ul>
-      <li> Dal 21/05/2024 - in corso </li>
+      <li> Dal 21/05/2024 - in corso | Bolzano, Italia</li>
       Stagista da Datatellers srl
     </ol>
   </p>
