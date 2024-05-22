@@ -8,5 +8,6 @@
       I miei interessi sono praticare lo sport in particolare il pugilato, fare conoscenza, visitare nuovi luoghi e imparare 
       nuove cose. </p> 
     <img src="https://github.com/faizan-nd/faizan-nd.github.io/blob/main/istruzione-e-formazione.jpg"  height="400" width="600">
+    <img src="https://github.com/faizan-nd/faizan-nd.github.io/blob/main/ite%20battisit.jpg" widht="600">
    </head>
 </html>
