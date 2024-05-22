@@ -8,6 +8,6 @@
      <ul> <li> Whatsapp: 3483142993 </li> </ul>
     </ul> 
   </p>
-    <img src="/faizan-nd/faizan-nd.guthub.io/contatti.png"  height="250" widht="500"
+    <img src="https://github.com/faizan-nd/faizan-nd.github.io/blob/main/contatti.png"  height="250" widht="500"
   </body>
   </html>
