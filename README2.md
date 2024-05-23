@@ -9,6 +9,6 @@
     </ul> 
   </p>
     <img src="https://github.com/faizan-nd/faizan-nd.github.io/blob/main/contatti.png"  height="250" widht="500">
-    <img src="https://github.com/faizan-nd/faizan-nd.github.io/blob/main/contatti-whatsapp-trevi-696x696.png" height="400" width="550">
+    <img src="https://github.com/faizan-nd/faizan-nd.github.io/blob/main/contatti-whatsapp-trevi-696x696.png" height="350" width="490">
   </body>
   </html>
