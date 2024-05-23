@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 <html> 
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <a href="style.css">
+  </head>
   <body>
   <h1> Contatti </h1>
     <p> <ul>
