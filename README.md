@@ -3,7 +3,7 @@
   <head>
      <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-        <link href="https://github.com/faizan-nd/faizan-nd.github.io/blob/main/styles.css" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet">
   </head>
     <body>
     <h1> Faizan Nadeem </h1>
