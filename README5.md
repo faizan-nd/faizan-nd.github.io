@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html> 
- <head>
+ <head></head>
+ <body>
    <h1> Esperienza Lavorativa </h1>
     <p> 
     <ol> <li> Dal 12/09/2023 al 12/10/2023 – dal 02/01/2024 al 20/01/2024 | Bolzano, Italia </li>
@@ -14,5 +15,5 @@
   </p>
   <img src="https://github.com/faizan-nd/faizan-nd.github.io/blob/main/apollis.gif" width ="450">
   <img src="https://github.com/faizan-nd/faizan-nd.github.io/blob/main/dt_logo_google.png" width="500">
-</head>
+</body>
 </html>
