@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html> 
- <head></head>
+ <head> <link href="https://github.com/faizan-nd/faizan-nd.github.io/blob/main/style.css" rel="stylesheet" type="text/css" /></head>
  <body>
    <h1> Esperienza Lavorativa </h1>
     <p> 
