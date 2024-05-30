@@ -1,13 +1,9 @@
 ```
-body {
-  background-color: lightblue;
+<style>
+mark{
+    color:red;
 }
-h1 {
-  color: white;
-  text-align: center;
-}
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
+</style>
+
+<mark>what is DataBase</mark>
 ```
