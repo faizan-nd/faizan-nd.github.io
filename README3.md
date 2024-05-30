@@ -4,7 +4,7 @@ Ho origine pakistane, nato il 12 novembre 2006 e sono una persona tranquilla, co
 
 # Istruzione e Formazione
 
-Vivo a Bolzano sono un studente della quarta superiore dell'indirizzo informatico nella scuola Cesare Battisti. 
+Vivo a Bolzano frequento la quarta superiore dell'indirizzo informatico nella scuola Cesare Battisti. 
 I miei interessi sono praticare lo sport in particolare il pugilato, fare conoscenza, visitare nuovi luoghi e imparare 
 nuove cose.
 
