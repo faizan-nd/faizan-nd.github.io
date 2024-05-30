@@ -17,7 +17,7 @@
       Stagista da Datatellers srl
     </ol>
   </p>
-  <img src="https://github.com/faizan-nd/faizan-nd.github.io/blob/main/apollis.gif" width ="450">
-  <img src="https://github.com/faizan-nd/faizan-nd.github.io/blob/main/dt_logo_google.png" width="500">
+  <img src="https://github.com/faizan-nd/faizan-nd.github.io/blob/main/apollis.gif" width ="450" alt="apollis">
+  <img src="https://github.com/faizan-nd/faizan-nd.github.io/blob/main/dt_logo_google.png" width="500" alt="dt_logo_google">
 </body>
 </html>
