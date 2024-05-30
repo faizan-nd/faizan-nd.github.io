@@ -1,17 +1,25 @@
-```
-Heading Identifiers:
-### Red text title {#identifier .red}
+```css
+/* Stili per il primo blocco HTML */
+h1 {
+  color: blue;
+}
 
-Fenced Code Attributes:
-{.red .numberLines startFrom="1"}
+/* Stili per il secondo blocco HTML */
+h1 {
+  color: green;
+}
 
-Inline Code Attributes:
-`red text`{.red}
+/* Stili per il terzo blocco HTML */
+p {
+  font-size: 16px;
+}
 
-Bracketed Spans:
-[This is *some red text*]{.red}
+/* Stili per il quarto blocco HTML */
+li {
+  list-style-type: none;
+}
 
-Link Attributes:
-![alt text](the.jpg){.center}
-
-```
+/* Stili per il quinto blocco HTML */
+img {
+  border: 1px solid black;
+}
