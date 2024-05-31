@@ -1,4 +1,3 @@
-
 # Curriculum Vitae - Faizan Nadeem
 
 <p style="text-align: center;">
