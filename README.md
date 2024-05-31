@@ -1,4 +1,5 @@
 # Curriculum Vitae - Faizan Nadeem
+![Faizan's Photo](https://github.com/faizan-nd/faizan-nd.github.io/blob/main/foto_CV.jpg)
 
 # Ciao! Benvenuto nel mio sito personale
 * [Contatti](README2.md)
