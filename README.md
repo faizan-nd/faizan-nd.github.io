@@ -1,8 +1,8 @@
 
-# Curriculum Vitae - Faizan Nadeem</p>
+# Curriculum Vitae - Faizan Nadeem
 
 <p style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/faizan-nd/faizan-nd.github.io/main/foto_CV.jpg" alt="Faizan's Photo">
+  <img height="200" width="200" src="https://raw.githubusercontent.com/faizan-nd/faizan-nd.github.io/main/foto_CV.jpg" alt="Faizan's Photo">
 </p>
 
 # Ciao! Benvenuto nel mio sito personale
