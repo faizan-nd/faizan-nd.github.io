@@ -1,6 +1,4 @@
 
-<p style="text-align: center;">
-
 # Curriculum Vitae - Faizan Nadeem</p>
 
 <p style="text-align: center;">
