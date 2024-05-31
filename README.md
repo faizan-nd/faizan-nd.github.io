@@ -1,3 +1,5 @@
+<p style="text-align: center;">Questo testo è centrato.</p>
+
 # Curriculum Vitae - Faizan Nadeem
 
 <p style="text-align: center;">
