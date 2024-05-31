@@ -6,7 +6,7 @@
 2. Dal 21/05/2024 - in corso | Bolzano, Italia
    - Stagista da Datatellers srl
 
-![apollis](https://github.com/faizan-nd/faizan-nd.github.io/blob/main/apollis.gif)
+![apollis](https://raw.githubusercontent.com/faizan-nd/faizan-nd.github.io/main/apollis.gif)
 
-![dt_logo_google](https://github.com/faizan-nd/faizan-nd.github.io/blob/main/dt_logo_google.png)
+![dt_logo_google](https://raw.githubusercontent.com/faizan-nd/faizan-nd.github.io/main/Logo-DT-TM_laterale-2022TRASP.png)
 * [Torna alla Homepage](README.md)
