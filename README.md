@@ -1,6 +1,7 @@
-<p style="text-align: center;">Questo testo è centrato.</p>
-
-# Curriculum Vitae - Faizan Nadeem
+<p style="text-align: center;">
+  
+  # Curriculum Vitae - Faizan Nadeem
+</p>
 
 <p style="text-align: center;">
   <img height="600" width="400" src="https://raw.githubusercontent.com/faizan-nd/faizan-nd.github.io/main/foto_CV.jpg" alt="Faizan's Photo">
