@@ -11,4 +11,4 @@ nuove cose.
 ![Istruzione e Formazione](https://github.com/faizan-nd/faizan-nd.github.io/blob/main/istruzione-e-formazione.jpg)
 
 ![ITE Battisti](https://github.com/faizan-nd/faizan-nd.github.io/blob/main/ite%20battisit.jpg)
-
+* [Torna alla Homepage](README.md)
