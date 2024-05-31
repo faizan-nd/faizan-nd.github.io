@@ -1,5 +1,7 @@
 
-<p style="text-align: center;">Curriculum Vitae - Faizan Nadeem</p>
+<p style="text-align: center;">
+
+# Curriculum Vitae - Faizan Nadeem</p>
 
 <p style="text-align: center;">
   <img src="https://github.com/faizan-nd/faizan-nd.github.io/blob/main/foto_CV.jpg" alt="Faizan's Photo">
