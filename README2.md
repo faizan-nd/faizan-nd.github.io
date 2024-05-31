@@ -6,5 +6,4 @@
 
 ![Contatti](https://raw.githubusercontent.com/faizan-nd/faizan-nd.github.io/main/contatti.png)
 
-
 * [Torna alla Homepage](README.md)
